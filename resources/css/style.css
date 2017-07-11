@@ -1,0 +1,15 @@
+#header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+}
+
+#times {
+  color: MediumAquamarine;
+}
+
+nav span{
+  display: inline-block;
+  align-items: flex-end;
+}
